@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C5%9F%C9%99hla-%C9%99liyeva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTruVwSEwTnmqZTaXeZOx1A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%c5%9fehla-eliyeva-16002814b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvn%2bw%2f2qit66y%2bwwfc5lv6a%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%C5%9F%C9%99hla-%C9%99liyeva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTruVwSEwTnmqZTaXeZOx1A%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%c5%9fehla-eliyeva-16002814b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvn%2bw%2f2qit66y%2bwwfc5lv6a%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/shahlalieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahlalieva" height="30" width="40" /></a>
 </p>
 
