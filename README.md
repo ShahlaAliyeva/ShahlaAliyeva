@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahlaaliyeva&label=Profile%20views&color=0e75b6&style=flat" alt="shahlaaliyeva" /> </p>
 
-- 🌱 I’m currently learning **Redux Toolkit, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JS libraries such as React**
 
