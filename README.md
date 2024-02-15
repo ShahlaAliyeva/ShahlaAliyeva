@@ -26,3 +26,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahlaaliyeva&" alt="shahlaaliyeva" /></p>
 
+<a href="https://github.com/ShahlaAliyeva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahlaAliyeva&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ShahlaAliyeva">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahlaAliyeva&show_icons=true&theme=light&line_height=27" alt="Shehla's github stats"/>
+</a>
+<br/>
+<br/>
+
+<a href="https://github.com/ShahlaAliyeva">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahlaAliyeva&theme=vue" />
+</a>
