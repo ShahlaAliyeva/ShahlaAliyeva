@@ -33,9 +33,4 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahlaAliyeva&theme=vue" />
 </a>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/ShahlaAliyeva/ShahlaAliyeva/blob/output/github-contribution-grid-snake.gif)
-  <br/><br/><br/>
-</div>
+
