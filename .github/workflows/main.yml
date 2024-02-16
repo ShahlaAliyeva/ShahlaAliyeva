@@ -1,3 +1,4 @@
+on:
  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
@@ -8,7 +9,7 @@
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
 jobs:
   generate:
