@@ -1,40 +1,79 @@
 
-<h1 align="center">Hi 👋, I'm Shehla Eliyeva</h1>
-<h3 align="center">A junior frontend developer from Azerbaijan</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shehla+Eliyeva!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahlaaliyeva&label=Profile%20views&color=0e75b6&style=flat" alt="shahlaaliyeva" /> </p>
+<h3 align="center">A strong junior front-end developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Next.js**
+<br/>
 
-- 💬 Ask me about **JS libraries such as React**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shahlaaliyeva&label=Profile%20views&color=0e75b6&style=flat" alt="shahlaaliyeva" /> </p>
 
-- 📫 How to reach me **shehla.eliyeva.f@gmail.com**
+<div align="center">
+  
+  🔭 I’m currently working on **Freelance projects**
+   
+  🌱 I’m currently learning **Next.js, SSR**
+  
+  💬 Ask me about **Node.js, React, Firebase...**
+  
+  📫 How to reach me **shehla.eliyeva.f@gmail.com**
+  
+ </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%C5%9F%C9%99hla-%C9%99liyeva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTruVwSEwTnmqZTaXeZOx1A%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%c5%9fehla-eliyeva-16002814b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvn%2bw%2f2qit66y%2bwwfc5lv6a%3d%3d" height="30" width="40" /></a>
-<a href="https://fb.com/shahlalieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahlalieva" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <a href="mailto:shehla.eliyeva.f@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="linkedin.com/in/şəhla-əliyeva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ShahlaAliyeva.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,scss,bootstrap,javascript,typescript,jquery,nodejs,react,redux,nextjs,mui,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,figma,powershell,regex,java,babel,vite,firebase,mongodb,mysql,docker" /><br>
+</div>
+<br/>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/><br/><br/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahlaaliyeva&show_icons=true&locale=en&layout=compact" alt="shahlaaliyeva" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahlaaliyeva&show_icons=true&locale=en" alt="shahlaaliyeva" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shahlaaliyeva&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shahlaaliyeva&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahlaaliyeva&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahlaaliyeva&" alt="shahlaaliyeva" /></p>
+<br/><br/>
 
+<hr/>
 
-<a href="https://github.com/ShahlaAliyeva">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahlaAliyeva&theme=vue" />
-</a>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShahlaAliyeva/ShahlaAliyeva/output/github-contribution-grid-snake.svg">
-</picture>
+<div align=center>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahlaAliyeva&theme=react" />
+</div>
+
+<br/>
